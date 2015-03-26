@@ -7,3 +7,13 @@ C:\Users\timothée\Documents\Visual Studio 2010\Projects\WindowsFormsApplication
 C:\Users\timothée\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
 C:\Users\timothée\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmAnimalAjouter.resources
 C:\Users\timothée\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frm.frmEspeceAjouter.resources
+C:\Users\Clement\Documents\Si6\Projet-Catoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Clement\Documents\Si6\Projet-Catoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Clement\Documents\Si6\Projet-Catoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Clement\Documents\Si6\Projet-Catoes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Clement\Documents\Si6\Projet-Catoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Clement\Documents\Si6\Projet-Catoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmAnimalAjouter.resources
+C:\Users\Clement\Documents\Si6\Projet-Catoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frm.frmEspeceAfficher.resources
+C:\Users\Clement\Documents\Si6\Projet-Catoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frm.frmEspeceAjouter.resources
+C:\Users\Clement\Documents\Si6\Projet-Catoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Clement\Documents\Si6\Projet-Catoes\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
