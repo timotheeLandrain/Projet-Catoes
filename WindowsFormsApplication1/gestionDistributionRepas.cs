@@ -23,18 +23,20 @@ namespace WindowsFormsApplication1
             conteneurEspece lesEspeces= new conteneurEspece();
             conteneurMenuType lesMenuTypes= new conteneurMenuType();
             conteneurAnimalRecevoirMenu lesMenusDistribues = new conteneurAnimalRecevoirMenu();
+           
         }
         
         public void ajouteUneEspece(String[] leMess)
         {                  
                 int code = 1;
-                toutesLesEspeces.ajouteUneEspece(code, leMess);
+                toutesLesEspeces.ajouteUneEspece(code, leMess[0]);
                
         }
-
+            
+            
         public ArrayList afficherLesEspeces()
         {
-            return afficherLesEspeces();
+            return this.toutesLesEspeces.getLesEspece();
         }
         }
     }

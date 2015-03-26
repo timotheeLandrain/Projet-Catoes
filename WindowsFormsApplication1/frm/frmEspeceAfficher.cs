@@ -1,4 +1,6 @@
-﻿using System;
+﻿using _1.Application_Console_metier;
+using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -7,10 +9,12 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
+
 namespace WindowsFormsApplication1.frm
 {
     public partial class frmEspeceAfficher : Form
     {
+        private controleur leControleur = new controleur();
         public frmEspeceAfficher()
         {
             InitializeComponent();
@@ -23,7 +27,12 @@ namespace WindowsFormsApplication1.frm
 
         private void frmEspeceAfficher_Load(object sender, EventArgs e)
         {
-            comboBoxEspece.Items.Add("blabla");
+            ArrayList LaListeEspece = leControleur.afficheListeEspece();
+            for (int i = 0; i < LaListeEspece.Count; i++)
+            {
+                espece uneEspece = (espece)LaListeEspece[i];
+                this.comboBoxEspece.Items.Add(uneEspece.getLibelleEspece());
+            }
         }
     }
 }

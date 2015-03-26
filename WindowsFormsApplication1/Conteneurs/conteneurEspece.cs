@@ -39,10 +39,7 @@ namespace _1.Application_Console_metier
 
 
 
-        internal void ajouteUneEspece(int code, string[] leMess)
-        {
-            throw new NotImplementedException();
-        }
+     
 
         public ArrayList getLesEspece()
         {
